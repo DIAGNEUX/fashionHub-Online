@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fashionHub-Online/static/css/main.dc4d6ff2.css",
+    "main.js": "/fashionHub-Online/static/js/main.a56ef2da.js",
+    "static/js/787.774594b4.chunk.js": "/fashionHub-Online/static/js/787.774594b4.chunk.js",
+    "index.html": "/fashionHub-Online/index.html",
+    "main.dc4d6ff2.css.map": "/fashionHub-Online/static/css/main.dc4d6ff2.css.map",
+    "main.a56ef2da.js.map": "/fashionHub-Online/static/js/main.a56ef2da.js.map",
+    "787.774594b4.chunk.js.map": "/fashionHub-Online/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.a56ef2da.js"
+  ]
+}
